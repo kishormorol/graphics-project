@@ -1,3 +1,5 @@
 # graphics-project
 
- Check the How to #### Submit Project in GitHub Classroom #### file to know how you can upload your project.
+Check the following file to know how you can upload your project.
+
+ #### Submit Project in GitHub Classroom #### 
